@@ -1,0 +1,15 @@
+{
+  "name": "honey",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node ./dist/app.js"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^14.14.0",
+    "aos": "^2.3.4",
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
